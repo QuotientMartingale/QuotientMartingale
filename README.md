@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm YU Guojun (IPA phonetics \[y gwo tɕyn\]), or just call me Alexander.
+I'm 喻国君（YU Guojun, IPA phonetics \[y gwo tɕyn\]), or just call me Alexander.
 
 
 - 🎓 MSc in Theoretical Physics, NJU, China
