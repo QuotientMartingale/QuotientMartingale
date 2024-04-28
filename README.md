@@ -2,7 +2,6 @@
 I'm YU Guojun (IPA phonetics \[y gwo tɕyn\]), or just call me Alexander.
 
 
-Here are some ideas to get you started:
 - 🎓 MSc in Theoretical Physics
 - 🌍 languages: 🇨🇳(mother tongue), 🇬🇧(proficient), 🇩🇪🇪🇸🇫🇷🇯🇵(simple greetings), Classical Latin and Ancient Greek(self-teaching just for fun)
 - 💻 python, C++, LaTeX
