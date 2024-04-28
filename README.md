@@ -1,8 +1,6 @@
 ### Hi there 👋 
 I'm YU Guojun (IPA phonetics \[y gwo tɕyn\]), or just call me Alexander.
 
-<!--
-**QuotientMartingale/QuotientMartingale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🎓 MSc in Theoretical Physics
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📖 currently reading: 《史記》(_Shiji_, or _Records of the Grand Historian_) and《左傳》(_Zuozhuan_, or _The Commentary of Zuo_)
 - 📫 email: yu.guojun.alex@gmail.com
 - ⚡ Fun fact: Dragon fruits are fruits of a special family of cactus.
--->
