@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm 喻国君（YU Guojun, IPA phonetics \[y gwo tɕyn\]), or just call me Alexander.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=QuotientMartingale.&left_color=green&right_color=red)
 
 - 🎓 MSc in Theoretical Physics, NJU, China
 - 🌍 languages: 🇨🇳(mother tongue), 🇬🇧(proficient), 🇩🇪🇪🇸🇫🇷🇯🇵(simple greetings), Classical Latin and Ancient Greek(self-teaching just for fun)
